@@ -1,0 +1,14 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.boxes {
+    height: 300px;
+    width: 250px;
+}
+
+.img img {
+    height: 150px;
+    width: 250px;
+}
